@@ -7,7 +7,7 @@ const TopNav = () => {
     <div className="grid grid-cols-3 items-center justify-between max-h-[10%]">
       <div className="flex items-center">
         <img
-          src="https://placehold.co/40x40"
+          src={"/streak_logo.png"}
           alt="SafePal Logo"
           className="w-8 h-8 mr-2"
         />

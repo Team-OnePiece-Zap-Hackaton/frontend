@@ -53,7 +53,7 @@ const config: Config = {
         xl: "1.25rem", // Large, rounded corners for modern design
       },
     },
-  }
+  },
 };
 
 export default config;
